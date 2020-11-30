@@ -1,12 +1,11 @@
 package main
 
 import (
-	"fmt"
 	"LinuxGraphics/graflib"
+	"fmt"
 )
 
-func main () {
+func main() {
 	fmt.Println("Hello world")
 	graflib.Try()
 }
-
