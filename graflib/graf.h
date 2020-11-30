@@ -1,5 +1,5 @@
-#ifndef __GRAF_H
-#define __GRAF_H
+#ifndef __GRAPH_H
+#define __GRAPH_H
 
 #define SCREEN_SIZE_X 760
 #define SCREEN_SIZE_Y 1280

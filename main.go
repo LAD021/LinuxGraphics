@@ -1,7 +1,7 @@
 package main
 
 import (
-	"LinuxGraphics/graflib"
+	"LinuxGraphics/graphlib"
 	"fmt"
 )
 

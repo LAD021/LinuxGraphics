@@ -1,4 +1,4 @@
-package graflib
+package graphlib
 
 /*
 #include "graf.h"

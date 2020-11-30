@@ -1,4 +1,4 @@
-#include "graf.h"
+#include "graph.h"
 
 GfSize GfGetScreenSize()
 {
