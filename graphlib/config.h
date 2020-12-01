@@ -1,0 +1,2 @@
+#define SCREEN_SIZE_X 760
+#define SCREEN_SIZE_Y 1280
